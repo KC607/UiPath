@@ -1,0 +1,182 @@
+{
+  "name": "AWC_Test Cases",
+  "projectId": "7ba56ab5-88b0-42c3-b604-d7afdabaee99",
+  "description": "First Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[23.6.0-preview]",
+    "UiPath.Testing.Activities": "[23.6.0-preview]",
+    "UiPath.UIAutomation.Activities": "[23.6.1-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "23.6.1.0",
+  "projectVersion": "1.0.149496967",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1ca16bd4-9473-42af-b2f6-c71a27475497",
+        "testCaseType": "TestCase",
+        "fileName": "All in One (Backup).xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d261344f-3262-47e4-b12b-adc04fcae711",
+        "testCaseType": "TestCase",
+        "fileName": "Create Folder_01.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a5a1142b-197a-4b84-9f5c-a66922e1aaeb",
+        "testCaseType": "TestCase",
+        "fileName": "Create Part_02.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d2b96f2d-8779-42e4-a84f-0d1f01bb8ce7",
+        "testCaseType": "TestCase",
+        "fileName": "Templates Available_03.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "179cd928-c4cc-4fc3-acf9-838225997cba",
+        "testCaseType": "TestCase",
+        "fileName": "Check-In Check-Out_04.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "a7ae90b0-bdb7-4652-82cc-cadb6d3abf45",
+        "testCaseType": "TestCase",
+        "fileName": "Editing Description_05.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f3591a1a-49f8-469d-9209-507605526774",
+        "testCaseType": "TestCase",
+        "fileName": "Export to Excel_06.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "1b98911f-1f37-43e3-9826-a2f9bfcfddc2",
+        "testCaseType": "TestCase",
+        "fileName": "Add Dataset_07.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "57aa273f-9195-47ea-acd0-3b32e1a8c981",
+        "testCaseType": "TestCase",
+        "fileName": "Copy Paste_08.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "93925fca-5aca-40ac-a054-347b3f7b6c2e",
+        "testCaseType": "TestCase",
+        "fileName": "Create Item_09.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "25fb5aaf-4532-4d80-b9d5-f51e15317c47",
+        "testCaseType": "TestCase",
+        "fileName": "Cut Paste_10.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ec1f1073-a4b4-4307-851c-3be04f28522b",
+        "testCaseType": "TestCase",
+        "fileName": "Revise Save as_11.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d5fb2c45-17b1-4f06-8cfb-d27997fb9bf5",
+        "testCaseType": "TestCase",
+        "fileName": "Open in New Window 12.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "20c78d7b-c993-4fd9-a88a-c1909a4cf334",
+        "testCaseType": "TestCase",
+        "fileName": "Workflow creation in infodba_14.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "0f6b5192-aa5c-485f-8d0a-d5d7c8727bd1",
+        "testCaseType": "TestCase",
+        "fileName": "Create Document_TC5.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "9f091fb4-ab95-4d8c-8942-d6812afc5171",
+        "testCaseType": "TestCase",
+        "fileName": "Create Document_16.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f3ce332a-d9b9-4d45-a019-408af7a298d9",
+        "testCaseType": "TestCase",
+        "fileName": "Submit to Workflow_17.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5badbb10-a391-4d31-b0c4-eda65588a782",
+        "testCaseType": "TestCase",
+        "fileName": "Switch User_15.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d9307302-1f6d-400e-a6f9-9c448dd91bc7",
+        "testCaseType": "TestCase",
+        "fileName": "Backup of Separate test cases.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "2da9cff7-b7ad-4782-ba13-bd005ba936f6",
+        "testCaseType": "TestCase",
+        "fileName": "Changing Wokspace_13.xaml"
+      }
+    ],
+    "modernBehavior": true,
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "3f437fee-60bf-43af-bc29-466622524a0b",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
